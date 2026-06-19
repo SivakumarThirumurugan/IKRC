@@ -19,7 +19,7 @@ This repository showcases the mechanical design and engineering management invol
 
 <div align="center">
   <!-- TO DO: Upload your certificate image to this repository and replace "certificate_image_name.png" with your actual file name -->
-  <img src="certificate_image_name.png" alt="IKRC Titan Autocorp Certificate" width="700"/>
+  <img src="IKRC" alt="IKRC Titan Autocorp Certificate" width="700"/>
 </div>
 
 ---
