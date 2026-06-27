@@ -63,10 +63,10 @@ Monitored mechanical feasibility and tolerance stack-ups to ensure the kart chas
 
 Successfully certified by Titan Autocorp for participation and engineering contributions in the Indian Kart Racing Championship 2021.
 
-📄 Full engineering report available: [`IKRC.pdf`](https://github.com/SivakumarThirumurugan/IKRC/blob/main/IKRC.pdf)
+📄 Full engineering report available: [`IKRC.pdf`](https://github.com/SivakumarThirumurugan/IKRC/blob/main/Comprehensive%20Engineering%20and%20Design%20Report.pdf
+)
 
 ---
-
 ## 📁 Repository Contents
 
 | File | Description |
